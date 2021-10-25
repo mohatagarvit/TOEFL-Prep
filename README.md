@@ -1,4 +1,6 @@
 # TOEFL-Prep
+### Speaking
+- [Criteria for grading](https://github.com/mohatagarvit/TOEFL-Prep/blob/main/media/images/Screenshot%202021-10-15%20at%202.18.12%20PM.png)
 
 ## Resource List
 ### ETS Resources
