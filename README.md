@@ -18,6 +18,7 @@
 
 ### LinguaMarina
 - [Speaking Templates](https://mpreserverdata.blob.core.windows.net/data/cms/files/e9bb8b53cd584b60ba7c874da03b994ea3c93c5248314c68b196d28519445f7d.pdf?utm_source=marina_english&utm_medium=youtube&utm_campaign=toefl_200919)
+- [30 Common English Phrases](https://mpreserverdata.blob.core.windows.net/data/cms/files/83dcb17a8efd48b690eddcb1ac09607b6e0472d6d03746308f9359e2c5731127.pdf)
 
 ### TOEFL with Juva
 #### Writing
