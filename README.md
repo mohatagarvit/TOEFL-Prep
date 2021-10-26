@@ -7,6 +7,7 @@
 - [ETS Reading Practice Set](https://www.ets.org/s/toefl/pdf/reading_practice_sets.pdf)
 - [ETS Listening Practice Set](https://www.ets.org/s/toefl/audio/listening_practice_sets.zip)
 - [ETS Speaking Practice Set](https://www.ets.org/s/toefl/pdf/speaking_practice_sets.pdf)
+- [ETS Writing Tips](https://www.ets.org/toefl/test-takers/ibt/resources/improve-skills/writing)
 
 ### NOTEFULL Videos
 #### Speaking
