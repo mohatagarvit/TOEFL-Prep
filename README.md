@@ -26,6 +26,7 @@
 ### TOEFL with Juva
 #### Writing
 - [Independent Task Sample](https://drive.google.com/file/d/1k1X3E0NTYxH-7yx4Xk8FgCyr1omm0T3N/view)
+- [Independent Task Template](https://drive.google.com/file/d/1sztV2Ud_qVxIdV4gcrrLQ_TztZgXpoRb/view)
 - [Independent Task Writing Introduction](https://www.youtube.com/watch?v=6nS0IEbQYdE)
 - [Independent Task Body Paragraph](https://www.youtube.com/watch?v=7dhTzojDMRs)
 - [How to write independent essay?](https://www.youtube.com/watch?v=yiQCLXElP3E&ab_channel=TOEFLwithJuva)
