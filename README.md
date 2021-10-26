@@ -33,6 +33,18 @@
 - [Integrated Task Template](https://drive.google.com/file/d/1537cSgFncn9QwJ03zc0_GsOTQ4FvVmug/view)
 - [7 tips](https://www.youtube.com/watch?v=FcT1oDt55EY&ab_channel=TOEFLwithJuva)
 - [How to score 30?](https://www.youtube.com/watch?v=p8oaAPeEfQ0&ab_channel=TOEFLwithJuva)
+- **General Advices for writing and getting high scores**:
+  - Linking words - Structure / signal
+  - Paraphrase
+  - If - conditionals
+  - Use Different Tenses
+  - Write More (words)
+  - Write a Sentence to directly answer the question
+  - Paragraphs - structure ideas
+  - Each Para should state one reason
+  - Use questions to develop ideas. Ask as questions or statements
+  - In short, demonstrate as many things and capabilities that you have. Simply Show off your skillsets.
+ 
 
 #### Speaking
 - [Speaking Templates](https://www.youtube.com/watch?v=3Fs952PySUA&list=RDLVMBAu5bQwG3c&index=3)
